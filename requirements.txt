@@ -1,4 +1,6 @@
-streamlit==1.41.1
+
+streamlit==1.52.2
 tensorflow==2.21.0
 numpy<2
 Pillow
+
